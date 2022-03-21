@@ -1,0 +1,638 @@
+city,crit_read_mean,writing_mean,math_mean
+"west chester, pennsylvania",577,544,526
+"clarks summit, pennsylvania",534,526,547
+"abington, pennsylvania",521,509,541
+"pittsburgh, pennsylvania",321,327,325
+"exton, pennsylvania",429,406,412
+"king of prussia, pennsylvania",473,426,430
+"uniontown, pennsylvania",478,448,470
+"aliquippa, pennsylvania",390,362,409
+"cheswick, pennsylvania",492,463,501
+"foxburg, pennsylvania",482,447,502
+"allentown, pennsylvania",404,381,422
+"allentown, pennsylvania",436,413,423
+"altoona, pennsylvania",491,472,498
+"ambridge, pennsylvania",477,445,492
+"annville, pennsylvania",517,488,533
+"reading, pennsylvania",474,450,444
+"spring church, pennsylvania",461,448,472
+"kittanning, pennsylvania",496,464,499
+"athens, pennsylvania",503,485,501
+"avella, pennsylvania",497,451,445
+"west grove, pennsylvania",540,519,525
+"west grove, pennsylvania",531,513,541
+"pittsburgh, pennsylvania",535,513,547
+"wingate, pennsylvania",474,452,485
+"pittsburgh, pennsylvania",503,478,504
+"bangor, pennsylvania",495,463,491
+"beaver, pennsylvania",527,510,548
+"bedford, pennsylvania",518,479,522
+"belle vernon, pennsylvania",498,470,512
+"bellefonte, pennsylvania",499,470,516
+"bellwood, pennsylvania",521,500,531
+"bensalem, pennsylvania",483,466,507
+"benton, pennsylvania",495,459,496
+"bentleyville, pennsylvania",495,466,513
+"berlin, pennsylvania",460,436,490
+"york springs, pennsylvania",494,474,509
+"berwick, pennsylvania",488,450,512
+"bethel park, pennsylvania",534,512,533
+"bethlehem, pennsylvania",501,483,498
+"bethlehem, pennsylvania",507,481,505
+"fredericktown, pennsylvania",491,450,439
+"beaver falls, pennsylvania",488,460,480
+"newville, pennsylvania",502,468,489
+"beaver falls, pennsylvania",515,491,507
+"nanty glo, pennsylvania",464,429,479
+"blairsville, pennsylvania",482,448,497
+"blairsville, pennsylvania",499,472,548
+"bloomsburg, pennsylvania",501,468,501
+"orwigsburg, pennsylvania",503,479,506
+"new milford, pennsylvania",498,471,491
+"boyertown, pennsylvania",513,499,529
+"philadelphia, pennsylvania",414,386,410
+"bradford, pennsylvania",498,473,505
+"topton, pennsylvania",499,478,498
+"pittsburgh, pennsylvania",499,472,472
+"bristol, pennsylvania",436,420,436
+"levittown, pennsylvania",450,424,461
+"brockway, pennsylvania",476,446,499
+"brookville, pennsylvania",501,482,486
+"brownsville, pennsylvania",440,428,443
+"fairless hills, pennsylvania",472,434,469
+"burgettstown, pennsylvania",496,465,482
+"lower burrell, pennsylvania",517,501,507
+"butler, pennsylvania",513,475,532
+"coal center, pennsylvania",446,445,467
+"patton, pennsylvania",477,447,484
+"emporium, pennsylvania",481,470,466
+"camp hill, pennsylvania",548,547,551
+"canonsburg, pennsylvania",517,498,525
+"canton, pennsylvania",480,448,485
+"harrisburg, pennsylvania",531,515,488
+"jim thorpe, pennsylvania",448,408,426
+"carbondale, pennsylvania",469,446,473
+"carlisle, pennsylvania",525,493,519
+"carnegie, pennsylvania",505,486,505
+"carmichaels, pennsylvania",495,465,478
+"catasauqua, pennsylvania",507,488,510
+"warminster, pennsylvania",496,473,497
+"levittown, pennsylvania",423,426,420
+"doylestown, pennsylvania",563,573,589
+"doylestown, pennsylvania",535,545,561
+"doylestown, pennsylvania",551,548,569
+"ebensburg, pennsylvania",500,477,493
+"bloomsburg, pennsylvania",518,487,539
+"harrisburg, pennsylvania",468,450,471
+"harrisburg, pennsylvania",526,512,545
+"mcconnellsburg, pennsylvania",477,454,507
+"waynesburg, pennsylvania",480,442,511
+"monaca, pennsylvania",479,457,500
+"york, pennsylvania",514,486,512
+"chambersburg, pennsylvania",461,427,437
+"chambersburg, pennsylvania",485,461,476
+"charleroi, pennsylvania",480,461,488
+"pittsburgh, pennsylvania",509,495,514
+"houston, pennsylvania",486,458,495
+"elkins park, pennsylvania",525,511,524
+"chester, pennsylvania",379,368,367
+"chester, pennsylvania",372,367,366
+"fishertown, pennsylvania",479,444,475
+"aston, pennsylvania",418,400,423
+"pittsburgh, pennsylvania",439,421,453
+"clairton, pennsylvania",388,346,417
+"clarion, pennsylvania",515,484,489
+"strattanville, pennsylvania",474,456,484
+"claysburg, pennsylvania",492,490,505
+"clearfield, pennsylvania",441,424,476
+"thorndale, pennsylvania",464,432,458
+"denver, pennsylvania",514,495,524
+"exton, pennsylvania",490,471,457
+"plymouth meeting, pennsylvania",537,520,543
+"columbia, pennsylvania",460,427,448
+"bloomsburg, pennsylvania",449,430,480
+"hadley, pennsylvania",484,456,479
+"harrisburg, pennsylvania",514,477,476
+"philadelphia, pennsylvania",404,385,390
+"davidsville, pennsylvania",481,454,506
+"johnstown, pennsylvania",487,467,507
+"lancaster, pennsylvania",515,479,511
+"new oxford, pennsylvania",491,460,525
+"linesville, pennsylvania",493,452,481
+"connellsville, pennsylvania",496,456,482
+"robesonia, pennsylvania",499,476,504
+"coraopolis, pennsylvania",440,413,436
+"lebanon, pennsylvania",517,491,529
+"corry, pennsylvania",462,441,467
+"coudersport, pennsylvania",520,476,468
+"newtown, pennsylvania",576,585,586
+"newtown, pennsylvania",547,544,565
+"seneca, pennsylvania",481,433,482
+"meadville, pennsylvania",487,444,490
+"meadville, pennsylvania",492,454,477
+"mountain top, pennsylvania",500,494,506
+"mechanicsburg, pennsylvania",536,516,562
+"curwensville, pennsylvania",452,419,441
+"dallas, pennsylvania",522,514,557
+"dallastown, pennsylvania",519,494,512
+"birdsboro, pennsylvania",511,485,509
+"danville, pennsylvania",516,509,531
+"harrisburg, pennsylvania",431,426,432
+"cheswick, pennsylvania",502,478,500
+"milford, pennsylvania",510,485,501
+"derry, pennsylvania",500,466,508
+"hershey, pennsylvania",549,536,567
+"mount joy, pennsylvania",515,492,508
+"dover, pennsylvania",495,467,501
+"downingtown, pennsylvania",523,518,540
+"downingtown, pennsylvania",521,506,530
+"downingtown, pennsylvania",604,604,631
+"latrobe, pennsylvania",376,353,399
+"dubois, pennsylvania",513,488,522
+"dunmore, pennsylvania",463,467,481
+"north versailles, pennsylvania",444,420,442
+"hughesville, pennsylvania",496,476,530
+"emmaus, pennsylvania",554,534,544
+"enola, pennsylvania",517,498,515
+"east stroudsburg, pennsylvania",476,442,461
+"east stroudsburg, pennsylvania",484,465,483
+"new holland, pennsylvania",526,493,524
+"myerstown, pennsylvania",510,481,512
+"wrightsville, pennsylvania",503,478,513
+"easton, pennsylvania",493,464,484
+"elizabeth, pennsylvania",482,442,487
+"elizabethtown, pennsylvania",529,495,532
+"springville, pennsylvania",512,474,518
+"ellwood city, pennsylvania",485,451,490
+"ephrata, pennsylvania",525,496,526
+"erie, pennsylvania",409,377,418
+"erie, pennsylvania",343,333,369
+"erie, pennsylvania",557,551,553
+"erie, pennsylvania",428,406,425
+"philadelphia, pennsylvania",355,355,373
+"everett, pennsylvania",478,450,479
+"reading, pennsylvania",497,479,506
+"fairfield, pennsylvania",488,463,502
+"fairview, pennsylvania",524,508,533
+"willow hill, pennsylvania",513,463,497
+"farrell, pennsylvania",401,375,396
+"johnstown, pennsylvania",463,420,455
+"fleetwood, pennsylvania",501,478,492
+"waterfall, pennsylvania",478,454,471
+"tionesta, pennsylvania",426,406,414
+"forest city, pennsylvania",515,479,545
+"sidman, pennsylvania",516,482,504
+"mc donald, pennsylvania",490,445,466
+"waterford, pennsylvania",490,468,484
+"pittsburgh, pennsylvania",569,562,576
+"franklin, pennsylvania",481,469,474
+"murrysville, pennsylvania",545,527,549
+"philadelphia, pennsylvania",439,429,461
+"perryopolis, pennsylvania",485,440,479
+"freedom, pennsylvania",482,460,495
+"sarver, pennsylvania",502,496,502
+"philadelphia, pennsylvania",389,403,432
+"galeton, pennsylvania",476,441,522
+"glen mills, pennsylvania",549,539,567
+"monroeville, pennsylvania",514,487,509
+"edinboro, pennsylvania",513,483,522
+"gettysburg, pennsylvania",512,481,525
+"girard, pennsylvania",495,469,505
+"flinton, pennsylvania",466,436,454
+"shillington, pennsylvania",509,474,505
+"malvern, pennsylvania",566,552,564
+"johnstown, pennsylvania",426,400,443
+"johnstown, pennsylvania",426,400,443
+"latrobe, pennsylvania",526,501,542
+"nanticoke, pennsylvania",487,459,479
+"greencastle, pennsylvania",505,485,520
+"greensburg, pennsylvania",497,468,517
+"greenville, pennsylvania",510,480,527
+"millerstown, pennsylvania",483,454,464
+"grove city, pennsylvania",416,388,420
+"grove city, pennsylvania",525,485,532
+"halifax, pennsylvania",507,492,503
+"hamburg, pennsylvania",479,447,495
+"allison park, pennsylvania",558,533,563
+"hanover township, pennsylvania",498,499,488
+"hanover, pennsylvania",475,456,481
+"harborcreek, pennsylvania",486,459,495
+"harrisburg, pennsylvania",418,399,428
+"horsham, pennsylvania",519,512,547
+"havertown, pennsylvania",523,505,551
+"hazle twp, pennsylvania",452,436,451
+"greensburg, pennsylvania",504,496,519
+"landisville, pennsylvania",535,505,556
+"hermitage, pennsylvania",506,488,519
+"natrona heights, pennsylvania",459,433,471
+"hollidaysburg, pennsylvania",528,510,535
+"homer city, pennsylvania",468,446,485
+"aliquippa, pennsylvania",487,462,516
+"huntingdon, pennsylvania",517,468,523
+"philadelphia, pennsylvania",353,334,345
+"indiana, pennsylvania",516,488,520
+"prospect park, pennsylvania",473,450,469
+"erie, pennsylvania",471,448,487
+"jamestown, pennsylvania",515,471,536
+"jeannette, pennsylvania",451,420,458
+"jefferson, pennsylvania",472,446,470
+"jenkintown, pennsylvania",559,565,563
+"jersey shore, pennsylvania",494,468,492
+"jim thorpe, pennsylvania",486,459,489
+"johnsonburg, pennsylvania",489,453,499
+"mifflintown, pennsylvania",493,470,496
+"mifflintown, pennsylvania",498,476,498
+"alexandria, pennsylvania",493,478,486
+"kane, pennsylvania",470,457,483
+"karns city, pennsylvania",513,479,535
+"kennett square, pennsylvania",536,518,541
+"mill hall, pennsylvania",440,403,436
+"mill hall, pennsylvania",469,442,474
+"pittsburgh, pennsylvania",523,510,535
+"knox, pennsylvania",514,486,504
+"philadelphia, pennsylvania",396,398,425
+"vandergrift, pennsylvania",500,479,501
+"kutztown, pennsylvania",525,502,537
+"lancaster, pennsylvania",342,325,378
+"factoryville, pennsylvania",502,481,507
+"scott township, pennsylvania",491,471,499
+"dallas, pennsylvania",508,490,514
+"stoneboro, pennsylvania",477,447,477
+"lancaster, pennsylvania",524,511,533
+"lancaster, pennsylvania",425,407,436
+"uniontown, pennsylvania",477,462,474
+"new castle, pennsylvania",479,466,477
+"new castle, pennsylvania",446,413,426
+"lebanon, pennsylvania",438,423,440
+"leechburg, pennsylvania",476,463,481
+"bethlehem, pennsylvania",502,489,475
+"bethlehem, pennsylvania",538,515,482
+"lehighton, pennsylvania",494,477,501
+"ford city, pennsylvania",451,402,448
+"lewisburg, pennsylvania",557,523,563
+"ligonier, pennsylvania",514,490,527
+"allentown, pennsylvania",373,362,388
+"midland, pennsylvania",520,489,498
+"herndon, pennsylvania",491,459,493
+"littlestown, pennsylvania",522,484,524
+"hummelstown, pennsylvania",527,506,545
+"ardmore, pennsylvania",582,590,582
+"ardmore, pennsylvania",584,580,602
+"huntingdon valley, pennsylvania",564,580,579
+"williamsport, pennsylvania",498,477,508
+"mahanoy city, pennsylvania",430,412,441
+"manheim, pennsylvania",507,483,510
+"lancaster, pennsylvania",539,515,553
+"philadelphia, pennsylvania",373,357,396
+"marion center, pennsylvania",474,457,473
+"philadelphia, pennsylvania",428,413,450
+"newtown square, pennsylvania",513,509,531
+"mars, pennsylvania",536,524,551
+"philadelphia, pennsylvania",357,363,323
+"philadelphia, pennsylvania",411,414,401
+"philadelphia, pennsylvania",443,433,439
+"philadelphia, pennsylvania",384,374,358
+"philadelphia, pennsylvania",501,488,511
+"claysville, pennsylvania",505,467,509
+"mckeesport, pennsylvania",436,414,428
+"mechanicsburg, pennsylvania",523,507,539
+"mercer, pennsylvania",514,479,520
+"eagleville, pennsylvania",555,547,583
+"meyersdale, pennsylvania",515,473,504
+"throop, pennsylvania",478,442,469
+"middletown, pennsylvania",504,487,500
+"middleburg, pennsylvania",482,451,497
+"lewistown, pennsylvania",493,457,507
+"mifflinburg, pennsylvania",507,471,521
+"erie, pennsylvania",507,484,512
+"millersburg, pennsylvania",487,430,485
+"millville, pennsylvania",510,487,476
+"milton, pennsylvania",495,458,502
+"minersville, pennsylvania",462,436,455
+"new castle, pennsylvania",464,440,487
+"monessen, pennsylvania",441,395,451
+"west sunbury, pennsylvania",487,435,507
+"montgomery, pennsylvania",502,454,494
+"mc kees rocks, pennsylvania",508,507,514
+"montoursville, pennsylvania",517,467,529
+"montrose, pennsylvania",500,477,494
+"moon township, pennsylvania",524,502,537
+"morrisville, pennsylvania",494,438,458
+"houtzdale, pennsylvania",465,430,466
+"mount carmel, pennsylvania",463,453,481
+"mount pleasant, pennsylvania",484,470,493
+"mount union, pennsylvania",477,447,487
+"kingsley, pennsylvania",521,492,499
+"pittsburgh, pennsylvania",573,577,578
+"reading, pennsylvania",466,427,468
+"philadelphia, pennsylvania",410,407,405
+"muncy, pennsylvania",482,468,482
+"nazareth, pennsylvania",525,507,519
+"langhorne, pennsylvania",508,490,528
+"new castle, pennsylvania",534,508,533
+"new brighton, pennsylvania",488,455,492
+"new castle, pennsylvania",443,421,439
+"philadelphia, pennsylvania",458,436,446
+"new hope, pennsylvania",556,567,593
+"new kensington, pennsylvania",454,439,451
+"newport, pennsylvania",524,493,535
+"norristown, pennsylvania",440,418,449
+"pittsburgh, pennsylvania",574,559,588
+"tionesta, pennsylvania",522,511,546
+"north east, pennsylvania",504,479,518
+"pittsburgh, pennsylvania",523,511,540
+"lansdale, pennsylvania",540,525,564
+"moscow, pennsylvania",515,500,512
+"ashland, pennsylvania",491,475,508
+"boswell, pennsylvania",479,464,487
+"northampton, pennsylvania",488,455,484
+"rome, pennsylvania",517,474,469
+"manchester, pennsylvania",502,483,504
+"loysburg, pennsylvania",524,490,499
+"northern cambria, pennsylvania",479,459,481
+"fredericksburg, pennsylvania",500,467,485
+"slatington, pennsylvania",492,465,492
+"ulysses, pennsylvania",530,484,507
+"elkland, pennsylvania",487,446,469
+"elkland, pennsylvania",468,447,467
+"dillsburg, pennsylvania",521,496,528
+"pittsburgh, pennsylvania",506,469,509
+"shickshinny, pennsylvania",499,489,496
+"albion, pennsylvania",514,475,509
+"new tripoli, pennsylvania",505,477,530
+"north huntingdon, pennsylvania",523,503,536
+"atglen, pennsylvania",498,481,514
+"oil city, pennsylvania",490,463,505
+"old forge, pennsylvania",472,465,481
+"oley, pennsylvania",533,524,536
+"philadelphia, pennsylvania",350,326,355
+"shinglehouse, pennsylvania",467,435,456
+"duke center, pennsylvania",494,465,495
+"pottstown, pennsylvania",541,526,545
+"oxford, pennsylvania",504,478,496
+"kintnersville, pennsylvania",514,503,546
+"palmerton, pennsylvania",495,476,493
+"palmyra, pennsylvania",511,494,527
+"lansford, pennsylvania",487,450,464
+"allentown, pennsylvania",545,534,551
+"pen argyl, pennsylvania",497,448,487
+"cresson, pennsylvania",500,495,508
+"pittsburgh, pennsylvania",462,428,445
+"lancaster, pennsylvania",516,483,523
+"saegertown, pennsylvania",486,450,493
+"saegertown, pennsylvania",469,435,460
+"saegertown, pennsylvania",499,478,487
+"aston, pennsylvania",483,470,494
+"perkasie, pennsylvania",513,493,527
+"clymer, pennsylvania",485,448,464
+"spring mills, pennsylvania",528,511,534
+"fallsington, pennsylvania",539,529,542
+"midland, pennsylvania",514,486,485
+"west chester, pennsylvania",566,528,542
+"king of prussia, pennsylvania",534,494,487
+"harrison city, pennsylvania",505,489,525
+"kinzers, pennsylvania",531,492,526
+"collegeville, pennsylvania",538,528,556
+"erie, pennsylvania",349,322,339
+"mcmurray, pennsylvania",537,525,559
+"philadelphia, pennsylvania",470,453,465
+"philadelphia, pennsylvania",454,436,474
+"philadelphia, pennsylvania",478,470,482
+"philadelphia, pennsylvania",328,303,327
+"philadelphia, pennsylvania",458,451,477
+"philadelphia, pennsylvania",544,531,586
+"philadelphia, pennsylvania",490,467,446
+"philadelphia, pennsylvania",346,318,347
+"philadelphia, pennsylvania",337,302,343
+"philadelphia, pennsylvania",358,339,347
+"philadelphia, pennsylvania",347,328,356
+"philadelphia, pennsylvania",334,313,356
+"philadelphia, pennsylvania",434,414,423
+"philadelphia, pennsylvania",331,303,363
+"philadelphia, pennsylvania",489,494,489
+"philadelphia, pennsylvania",437,422,440
+"philadelphia, pennsylvania",463,437,491
+"philadelphia, pennsylvania",349,327,348
+"philadelphia, pennsylvania",357,338,349
+"philadelphia, pennsylvania",377,349,349
+"philadelphia, pennsylvania",349,339,350
+"philadelphia, pennsylvania",366,322,342
+"philadelphia, pennsylvania",377,354,381
+"philadelphia, pennsylvania",374,355,389
+"philadelphia, pennsylvania",353,335,360
+"philadelphia, pennsylvania",655,645,678
+"philadelphia, pennsylvania",396,381,395
+"philadelphia, pennsylvania",412,379,390
+"philadelphia, pennsylvania",415,401,455
+"philadelphia, pennsylvania",362,347,359
+"philadelphia, pennsylvania",409,395,421
+"philadelphia, pennsylvania",389,372,393
+"philadelphia, pennsylvania",394,364,387
+"philadelphia, pennsylvania",389,365,414
+"philadelphia, pennsylvania",373,357,375
+"philadelphia, pennsylvania",331,321,333
+"philadelphia, pennsylvania",364,333,350
+"philadelphia, pennsylvania",379,349,356
+"philadelphia, pennsylvania",398,383,397
+"philadelphia, pennsylvania",332,320,331
+"philadelphia, pennsylvania",375,344,365
+"philadelphia, pennsylvania",544,524,531
+"philadelphia, pennsylvania",341,320,370
+"philadelphia, pennsylvania",327,301,328
+"philadelphia, pennsylvania",377,351,393
+"philadelphia, pennsylvania",392,344,364
+"philadelphia, pennsylvania",406,389,417
+"philadelphia, pennsylvania",357,339,361
+"philadelphia, pennsylvania",362,340,368
+"philipsburg, pennsylvania",488,443,492
+"phoenixville, pennsylvania",546,526,538
+"pine grove, pennsylvania",488,459,455
+"gibsonia, pennsylvania",550,538,572
+"pittsburgh, pennsylvania",511,492,519
+"pittsburgh, pennsylvania",417,394,432
+"pittsburgh, pennsylvania",529,512,517
+"pittsburgh, pennsylvania",428,406,448
+"pittsburgh, pennsylvania",358,335,362
+"pittsburgh, pennsylvania",489,479,501
+"pittsburgh, pennsylvania",473,439,424
+"pittsburgh, pennsylvania",395,368,402
+"pittsburgh, pennsylvania",495,459,517
+"pittsburgh, pennsylvania",361,338,379
+"pittston, pennsylvania",469,448,472
+"brodheadsville, pennsylvania",495,455,498
+"plum, pennsylvania",512,488,517
+"swiftwater, pennsylvania",496,465,509
+"swiftwater, pennsylvania",450,425,452
+"port allegany, pennsylvania",493,445,542
+"portage, pennsylvania",485,470,511
+"pottstown, pennsylvania",510,482,503
+"pottstown, pennsylvania",465,433,447
+"pottsville, pennsylvania",478,468,490
+"philadelphia, pennsylvania",438,434,452
+"pittsburgh, pennsylvania",404,389,406
+"homestead, pennsylvania",372,357,371
+"punxsutawney, pennsylvania",488,464,515
+"commodore, pennsylvania",514,492,523
+"leetsdale, pennsylvania",544,538,560
+"quakertown, pennsylvania",523,498,526
+"wayne, pennsylvania",575,574,597
+"reading, pennsylvania",405,373,402
+"red lion, pennsylvania",490,444,519
+"new bethlehem, pennsylvania",480,461,472
+"phoenixville, pennsylvania",531,500,525
+"greenville, pennsylvania",479,457,470
+"johnstown, pennsylvania",530,522,525
+"ridgway, pennsylvania",479,449,483
+"folsom, pennsylvania",478,449,491
+"new eagle, pennsylvania",472,447,474
+"ellwood city, pennsylvania",471,462,501
+"taylor, pennsylvania",411,404,445
+"oakmont, pennsylvania",521,502,509
+"allentown, pennsylvania",427,394,426
+"rochester, pennsylvania",479,446,498
+"rockwood, pennsylvania",492,454,513
+"media, pennsylvania",530,528,547
+"saint marys, pennsylvania",500,466,519
+"allentown, pennsylvania",513,489,520
+"salisbury, pennsylvania",513,465,515
+"philadelphia, pennsylvania",362,360,348
+"hellertown, pennsylvania",529,512,543
+"sayre, pennsylvania",492,449,483
+"schuylkill haven, pennsylvania",485,453,499
+"leesport, pennsylvania",517,487,506
+"scranton, pennsylvania",458,443,459
+"scranton, pennsylvania",448,435,452
+"selinsgrove, pennsylvania",497,468,499
+"harmony, pennsylvania",527,511,543
+"cairnbrook, pennsylvania",485,453,491
+"glenshaw, pennsylvania",515,495,509
+"coal township, pennsylvania",457,423,466
+"shanksville, pennsylvania",483,448,513
+"sharon, pennsylvania",431,398,426
+"sharpsville, pennsylvania",482,453,484
+"shenandoah, pennsylvania",441,408,448
+"new castle, pennsylvania",479,472,492
+"sunbury, pennsylvania",458,444,472
+"shippensburg, pennsylvania",499,476,508
+"slippery rock, pennsylvania",538,491,535
+"smethport, pennsylvania",492,463,513
+"quarryville, pennsylvania",509,471,512
+"somerset, pennsylvania",509,460,510
+"souderton, pennsylvania",540,519,550
+"mc keesport, pennsylvania",475,445,466
+"saxonburg, pennsylvania",526,506,532
+"fawn grove, pennsylvania",518,487,532
+"mcdonald, pennsylvania",539,538,568
+"boiling springs, pennsylvania",528,511,511
+"south park, pennsylvania",507,472,523
+"hookstown, pennsylvania",505,464,508
+"hanover, pennsylvania",501,464,505
+"south williamsport, pennsylvania",521,496,522
+"folcroft, pennsylvania",399,376,404
+"greensboro, pennsylvania",415,397,396
+"catawissa, pennsylvania",496,483,511
+"warfordsburg, pennsylvania",496,462,543
+"three springs, pennsylvania",456,424,457
+"center valley, pennsylvania",554,536,563
+"blossburg, pennsylvania",416,390,438
+"blossburg, pennsylvania",506,475,495
+"glen rock, pennsylvania",526,513,545
+"scottdale, pennsylvania",496,470,493
+"spring grove, pennsylvania",504,481,521
+"springfield, pennsylvania",506,504,531
+"oreland, pennsylvania",547,529,560
+"royersford, pennsylvania",536,526,560
+"state college, pennsylvania",557,530,575
+"munhall, pennsylvania",462,421,473
+"steelton, pennsylvania",403,395,381
+"mckees rocks, pennsylvania",424,395,421
+"stroudsburg, pennsylvania",498,468,499
+"laporte, pennsylvania",542,488,540
+"susquehanna, pennsylvania",494,468,517
+"harrisburg, pennsylvania",488,466,502
+"duncannon, pennsylvania",511,458,485
+"philadelphia, pennsylvania",388,359,391
+"tamaqua, pennsylvania",486,473,501
+"titusville, pennsylvania",505,458,504
+"towanda, pennsylvania",467,448,495
+"wayne, pennsylvania",596,592,608
+"washington, pennsylvania",499,465,499
+"valley view, pennsylvania",493,469,486
+"troy, pennsylvania",483,438,497
+"bethel, pennsylvania",515,471,505
+"tunkhannock, pennsylvania",499,466,500
+"mercersburg, pennsylvania",486,452,491
+"saxton, pennsylvania",470,437,492
+"elverson, pennsylvania",522,505,538
+"tyrone, pennsylvania",500,511,492
+"new castle, pennsylvania",445,414,454
+"union city, pennsylvania",487,452,486
+"rimersburg, pennsylvania",468,435,475
+"uniontown, pennsylvania",479,439,477
+"kennett square, pennsylvania",578,572,580
+"armagh, pennsylvania",511,490,509
+"philadelphia, pennsylvania",361,326,338
+"biglerville, pennsylvania",456,431,478
+"drexel hill, pennsylvania",451,432,464
+"lykens, pennsylvania",493,468,484
+"maple glen, pennsylvania",567,574,588
+"king of prussia, pennsylvania",507,496,533
+"willow grove, pennsylvania",516,494,527
+"pennsburg, pennsylvania",506,487,521
+"pittsburgh, pennsylvania",582,584,604
+"pittsburgh, pennsylvania",392,363,378
+"franklin, pennsylvania",484,438,452
+"archbald, pennsylvania",483,456,483
+"hawley, pennsylvania",507,494,529
+"wallingford, pennsylvania",570,552,585
+"russell, pennsylvania",505,483,516
+"russell, pennsylvania",426,390,441
+"russell, pennsylvania",497,467,520
+"russell, pennsylvania",466,450,485
+"turbotville, pennsylvania",510,474,512
+"lititz, pennsylvania",537,507,539
+"washington, pennsylvania",489,449,513
+"erie, pennsylvania",506,485,496
+"honesdale, pennsylvania",514,502,525
+"waynesboro, pennsylvania",503,468,501
+"weatherly, pennsylvania",454,442,480
+"wellsboro, pennsylvania",521,483,508
+"imperial, pennsylvania",513,502,516
+"morrisdale, pennsylvania",460,439,446
+"exton, pennsylvania",538,527,555
+"exton, pennsylvania",525,525,543
+"exton, pennsylvania",544,535,564
+"waynesburg, pennsylvania",495,454,487
+"jefferson hills, pennsylvania",503,488,502
+"west middlesex, pennsylvania",500,455,501
+"west mifflin, pennsylvania",453,432,462
+"elliottsburg, pennsylvania",503,483,504
+"lewisberry, pennsylvania",516,492,524
+"lewisberry, pennsylvania",524,494,526
+"york, pennsylvania",506,479,523
+"midland, pennsylvania",498,463,528
+"lake ariel, pennsylvania",497,456,500
+"johnstown, pennsylvania",503,488,521
+"whitehall, pennsylvania",502,477,507
+"wilkes barre, pennsylvania",427,421,439
+"wilkes barre, pennsylvania",416,415,420
+"wilkes barre, pennsylvania",460,439,467
+"wilkinsburg, pennsylvania",331,309,339
+"lansdowne, pennsylvania",408,395,417
+"tower city, pennsylvania",521,493,491
+"williamsburg, pennsylvania",474,447,467
+"williamsport, pennsylvania",482,456,495
+"new wilmington, pennsylvania",515,483,506
+"easton, pennsylvania",501,489,515
+"west lawn, pennsylvania",511,486,518
+"windber, pennsylvania",485,469,529
+"ambler, pennsylvania",556,556,589
+"n. braddock, pennsylvania",461,429,465
+"wyalusing, pennsylvania",506,468,512
+"exeter, pennsylvania",489,482,494
+"kingston, pennsylvania",516,485,512
+"wyomissing, pennsylvania",520,503,517
+"york, pennsylvania",390,358,399
+"york, pennsylvania",456,420,462
+"york, pennsylvania",542,522,564
+"herminie, pennsylvania",509,493,533

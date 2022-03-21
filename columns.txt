@@ -1,0 +1,11 @@
+B06009_002E,Less than HS Diploma Total
+B06009_003E,HS Diploma Total
+B06009_004E,Some College Total
+B06009_005E,Bachelor's Total
+B06009_006E,Graduate or Professional Total
+B25077_001E,Median Value (Dollars)
+B27011_014E,Total Labor Force Unemployed
+B25099_001E,Median Household Income
+B06007_005E,Spanish Speakers that Speak Poor English
+B06007_008E,Other Language Speakers that Speak Poor English
+B17010B_002E,Income below Poverty Level Total
