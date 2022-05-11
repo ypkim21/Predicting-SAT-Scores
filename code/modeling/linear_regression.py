@@ -1,3 +1,9 @@
+from numpy import mean
+from numpy import std
+from numpy import absolute
+from sklearn.model_selection import cross_val_score
+from sklearn.model_selection import RepeatedKFold
+
 import pandas as pd
 import matplotlib.pyplot as plt
 
@@ -103,13 +109,20 @@ show_plot(pred_df['predicted'], pred_df['actual'], "Predicted Scores", "Actual S
 summary = """
 Intecept: {}
 Coefficients: {}
-Score: {}
 MAE: {}
 MSE: {}
 RMSE: {}
 R_2 Score: {}
 Adjusted R_2 Score: {}
 """.format(intercept, coefficients, mae, mse, rmse, r_2_score, adjust_r2)
+
+# define model evaluation method
+cv = RepeatedKFold(n_splits=10, n_repeats=3, random_state=1)
+# evaluate model
+scores = cross_val_score(regressor, X_test, y_test, scoring='neg_mean_absolute_error', cv=cv, n_jobs=-1)
+# force scores to be positive
+scores = absolute(scores)
+summary += 'Mean MAE: {} ({})'.format(mean(scores), std(scores))
 
 with open(os.path.join(directory, "summary.txt"), mode="w") as file:
     file.write(summary)

@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 
 from sklearn import preprocessing, metrics
 from sklearn.model_selection import train_test_split
-from sklearn.linear_model import Lasso
+from sklearn.ensemble import RandomForestRegressor
 
 import numpy as np
 
@@ -88,7 +88,7 @@ for column in cols:
 
 X_train, X_test, y_train, y_test = train_test_split(df[cols], df["composite_mean"], test_size=0.2, random_state=0)
 
-regressor = Lasso(alpha=1.0)
+regressor = RandomForestRegressor(max_depth=8, min_samples_leaf=0.13, random_state=0)
 regressor.fit(X_train, y_train)
 
 y_pred = regressor.predict(X_test)

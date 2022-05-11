@@ -40,6 +40,8 @@ final_df = pd.concat(merged_dataframes, axis=0)
 
 final_df = final_df.dropna()
 
+final_df = final_df.groupby('city').mean().reset_index()
+
 final_df.rename(cols_dict, inplace=True)
 
-final_df.to_csv("city_and_sat.csv", index=False)
+final_df.to_csv("city_and_sat_2.csv", index=False)

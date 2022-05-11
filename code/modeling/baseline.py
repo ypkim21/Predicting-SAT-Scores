@@ -1,3 +1,9 @@
+from numpy import mean
+from numpy import std
+from numpy import absolute
+from sklearn.model_selection import cross_val_score
+from sklearn.model_selection import RepeatedKFold
+
 import pandas as pd
 import matplotlib.pyplot as plt
 
